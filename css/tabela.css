@@ -1,0 +1,240 @@
+/* CSS Documento */
+
+html {
+    background-color: rgba(500, 80, 100, 0.3) 
+}
+
+
+body {
+    margin-top: 30px;
+    margin-left: 40px
+ 
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-left: 130px;
+    margin-bottom: 50px
+}
+
+#titulo {
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 290px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    color:darkred
+}
+
+#hr {
+    height: 1px;
+    width: 750px;
+    margin-right: 300px;
+    background-color: black
+}
+
+#hr1 {
+    height: 2px;
+    width: 960px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+    background-color: black
+    
+}
+
+#titulo1 {
+    text-align:center;
+    margin-top: 0px;
+    margin-right: 290px;
+    font-size: 30px;
+    color:darkred;
+    text-shadow: 0.1em 0.1em 0.1em red
+}
+
+#fundo {
+    position: fixed;
+	filter: opacity(alpha=60);
+    opacity: 0.20;
+    height: 100%;
+    margin-left: 120px
+}
+
+.bandeira {
+	height: 55px;
+	width: 70px;
+    margin-bottom: 3px;
+    margin-left: 80px
+}
+
+#letra {
+    float: right;
+    margin-right: 250px;
+    position:inherit;    
+}
+
+.letraA {
+    margin-top: 100px;
+}
+
+.letraB {
+    margin-top: -500px;
+}
+
+.letraC {
+    margin-top: -500px;
+     margin-left: 5px
+}
+
+.letraD {
+    margin-top: -500px;
+    margin-left: 5px
+}
+
+
+.letraE {
+    margin-top: -500px;
+    margin-left: 5px
+}
+
+
+.letraF {
+    margin-top: -500px;
+    margin-left: 5px
+}
+
+
+.letraG {
+    margin-top: -500px;
+    margin-left: 5px
+}
+
+
+.letraH {
+    margin-top: -500px;
+    margin-left: 5px
+}
+
+
+#grupoA {
+  width: 50px;
+  margin-left: 150px;   
+  margin-top: 10px    
+}
+
+#grupoB {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoC {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoD {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoE {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoF {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoG {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoH {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+.jogo {
+	font-family: "verdana";
+	font-size: 20px;
+    text-align: center;
+    margin-left: 330px;
+    width: 650px        
+}
+
+tr {
+  background-color: #f5f5f5;
+  box-shadow: 0px 0px 20px #999 inset  
+}
+
+td {
+ height: 50px;
+ width: 60px   
+}
+
+.placar {
+	width: 10px;
+	height: 10px;
+    border-radius: 10px;
+    border-color: black
+}
+
+#tabelaA {
+    margin-top: -330px;
+    margin-right: 100px
+}
+
+#tabelaB {
+    margin-top: -330px;
+    margin-left: 200px
+
+}
+
+#tabelaC {
+    margin-top: -330px
+}
+
+#tabelaD {
+    margin-top: -330px
+}
+
+#tabelaE {
+    margin-top: -330px; 
+}
+
+#tabelaF {
+    margin-top: -330px
+}
+
+#tabelaG {
+    margin-top: -330px
+}
+
+#tabelaH {
+    margin-top: -330px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+/* CSS Documento */
+
+/* comentário */
+html{
+    font-size:20px; color:#000; font-family:arial;
+background-color:#d3d3d3; /*noticias*/
+margin-top: 5%;
+margin-left: 10%;
+margin-bottom: 5%;
+margin-right: 10%}
+H1 {text-align: center;}
+H2,H3 {margin-left: 20px;} /* H3 - noticias*/
+img {max-width: 600px; max-height: 650px;
+margin-left: 20%}
+comentarios {margin-left: 80%;}
+frmContatosdois {max-width: 10px;}
